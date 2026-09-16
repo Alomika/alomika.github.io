@@ -1,0 +1,16 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Alomika/alomika.github.io.git
+	branch = main
+[submodule "webas/public/public"]
+	path = webas/public/public
+	url = https://github.com/Alomika/alomika.github.io.git
+	branch = main
+[submodule "webas/webas/public"]
+	path = webas/webas/public
+	url = https://github.com/Alomika/alomika.github.io.git
+	branch = main
+[submodule "webas/public"]
+	path = webas/public
+	url = https://github.com/Alomika/alomika.github.io.git
+	branch = main

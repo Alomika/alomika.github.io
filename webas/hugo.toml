@@ -1,0 +1,4 @@
+baseURL = 'https://alomika.github.io/'
+locale = 'en-us'
+title = 'New Web New Style'
+theme = "hellofriend"
