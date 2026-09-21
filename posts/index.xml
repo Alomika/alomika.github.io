@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Little Project</title>
+    <link>https://alomika.github.io/posts/</link>
+    <description>Recent content in Posts on Little Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2026 12:15:54 +0300</lastBuildDate>
+    <atom:link href="https://alomika.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Little Stars</title>
+      <link>https://alomika.github.io/posts/starfish/</link>
+      <pubDate>Mon, 21 Sep 2026 12:15:54 +0300</pubDate>
+      <guid>https://alomika.github.io/posts/starfish/</guid>
+      <description>&lt;p&gt;Starfish is a type of fish that does not remind of fish, but a star :)
+It has 5 legs in most common cases.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
