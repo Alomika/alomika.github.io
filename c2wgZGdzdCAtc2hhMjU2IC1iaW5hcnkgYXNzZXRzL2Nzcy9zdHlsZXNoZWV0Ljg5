@@ -1,0 +1,24 @@
+warning: in the working copy of '404.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'categories/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'posts/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'posts/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'posts/snowman/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'posts/starfish/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tags/index.html', LF will be replaced by CRLF the next time Git touches it
+ 404.html                  | 200 [32m++[m[31m------------------------------[m
+ categories/index.html     | 206 [32m++[m[31m------------------------------[m
+ categories/index.xml      |  12 [32m+[m[31m-[m
+ index.html                | 245 [32m++[m[31m-------------------------------------[m
+ index.xml                 |  35 [32m+[m[31m-----[m
+ page/1/index.html         |  10 [32m+[m[31m-[m
+ posts/index.html          | 251 [32m++[m[31m-------------------------------------[m
+ posts/index.xml           |  35 [32m+[m[31m-----[m
+ posts/page/1/index.html   |  10 [32m+[m[31m-[m
+ posts/snowman/index.html  | 290 [32m+++[m[31m-------------------------------------------[m
+ posts/starfish/index.html | 281 [32m++[m[31m------------------------------------------[m
+ sitemap.xml               |  22 [32m+[m[31m---[m
+ tags/index.html           | 206 [32m++[m[31m------------------------------[m
+ tags/index.xml            |  12 [32m+[m[31m-[m
+ 14 files changed, 74 insertions(+), 1741 deletions(-)
